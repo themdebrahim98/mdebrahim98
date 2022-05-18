@@ -5,7 +5,7 @@
 
 ## :sassy_man: About me
 - :school: I am pursuing a B.Tech degree in Computer Science and Engineering from MAKAUT, West Bengal.
-- :technologist: I love to work on Javascript and Web applications.
+- :technologist: I love to work on `Javascript` and `Web applications`.
 - :computer: I am a competitive programmer mainly at `LeetCode`.
 - :student: I’m currently learning: `Computer Science` and `Software Engineering`.
 - :thinking: I’m currently open for: `An Intern` or a new `job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/1gdiny_4f5TVbSdfyAQxokLMMrBTi054P/view?usp=sharing).
