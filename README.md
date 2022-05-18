@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Md Ebrahim <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=Computer+Science+Student;Enthusiast+Javascript+developer;Always+learning+new+things"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=Computer+Science+Student;Enthusiastic+Javascript+developer;Always+learning+new+things"></a>
 </p>
 
 ## :sassy_man: About me
