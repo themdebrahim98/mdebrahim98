@@ -32,8 +32,13 @@
     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=plastic&logo=javascript&logoColor=black">
    </a>
   &emsp; 
-   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
+   <a href="https://nodejs.org/en" target="_blank"> 
     <img alt="Nodejs" src="https://img.shields.io/badge/Nodejs%20-%23F7DF1E.svg?style=plastic&logo=javascript&logoColor=black">
+   </a>
+   &emsp; 
+	
+   <a href="https://react.dev/" target="_blank"> 
+    <img alt="React" src="https://img.shields.io/badge/React%20-%23F7DF1E.svg?style=plastic&logo=react&logoColor=black">
    </a>
    &emsp; 
   
@@ -49,9 +54,10 @@
     <img alt="C++" src="https://img.shields.io/badge/C++%20-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white">
   </a> 
   &emsp;
-  
+  <a href="https://www.python.org/" target="_blank"> 
+    <img alt="Python" src="https://img.shields.io/badge/Python%20-%23F7DF1E.svg?style=plastic&logo=Python&logoColor=black">
+  </a> 
   &emsp;
-   
 </p>
 
 ### 👉 Frontend Development
@@ -64,6 +70,38 @@
   <a href="https://www.w3schools.com/css/" target="_blank">
     <img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?style=plastic&logo=css3&logoColor=white">
   </a> 
+&emsp;
+  <a href="https://react.dev/" target="_blank"> 
+    <img alt="React" src="https://img.shields.io/badge/React%20-%23F7DF1E.svg?style=plastic&logo=react&logoColor=black">
+   </a>
+&emsp;
+  <a href="https://redux.js.org/" target="_blank"> 
+    <img alt="Redux" src="https://img.shields.io/badge/Redux%20-%23F7DF1E.svg?style=plastic&logo=redux&logoColor=black">
+   </a>
+&emsp;
+  <a href="https://getbootstrap.com/" target="_blank"> 
+    <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap%20-%23F7DF1E.svg?style=plastic&logo=Bootstrap&logoColor=black">
+   </a>
+</p>
+
+### 👉 Backend Development
+<p align="center"> 
+  &emsp; 
+   <a href="https://nodejs.org/en" target="_blank"> 
+    <img alt="Nodejs" src="https://img.shields.io/badge/Nodejs%20-%23F7DF1E.svg?style=plastic&logo=javascript&logoColor=black">
+   </a>
+&emsp; 
+   <a href="https://expressjs.com/" target="_blank"> 
+    <img alt="ExpressJs" src="https://img.shields.io/badge/Express%20-%23F7DF1E.svg?style=plastic&logo=express&logoColor=black">
+   </a>
+&emsp; 
+   <a href="https://www.mysql.com/" target="_blank"> 
+    <img alt="MySQL" src="https://img.shields.io/badge/MySQL%20-%23F7DF1E.svg?style=plastic&logo=MySQL&logoColor=black">
+   </a>
+&emsp; 
+   <a href="https://www.mongodb.com/" target="_blank"> 
+    <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB%20-%23F7DF1E.svg?style=plastic&logo=MongoDB&logoColor=black">
+   </a>
 </p>
 
  ### 👉 Software & Tools
@@ -113,9 +151,7 @@
   &emsp;
     <a href="#"><img src="https://img.shields.io/badge/Ubuntu-E95420?style=plastic&logo=ubuntu&logoColor=white"></a>
   &emsp;
-    <a href="#"><img src="https://img.shields.io/badge/Windows-0078D6?style=plastic&logo=windows&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img src="https://img.shields.io/badge/pop!_os-%2348B9C7.svg?style=plastic&&logo=pop!_os&logoColor=white" /></a>	  
+    <a href="#"><img src="https://img.shields.io/badge/Windows-0078D6?style=plastic&logo=windows&logoColor=white"></a>	  
 </p>
 
 <br/>
