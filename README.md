@@ -3,7 +3,7 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=Computer+Science+Student;Enthusiastic+Javascript+developer;Always+learning+new+things"></a>
 </p>
 
-## :sassy_man: About me
+## :sassy_man: About me [**[MY RESUME](https://drive.google.com/file/d/1l1aQP1lBgQ6CAcKHlk3QciEL-W4WjvsE/view)**]
 - :school: I am pursuing a B.Tech degree in Computer Science and Engineering from MAKAUT, West Bengal.
 - :technologist: I love to work on `JavaScript` and `Web applications`.
 - :computer: I am a competitive programmer mainly at `LeetCode`.
