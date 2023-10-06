@@ -8,7 +8,7 @@
 - :technologist: I love to work on `JavaScript` and `Web applications`.
 - :computer: I am a competitive programmer mainly at `LeetCode`.
 - :student: I’m currently learning: `Computer Science` and `Software Engineering`.
-- :thinking: I’m currently open for: `An Intern` or a new `job opportunity`, this is **[MY RESUME](https://drive.google.com/file/d/1ltaBY_pVKn0XB-ljZvvX23yqWlgnD_r9/view?usp=sharing)**.
+- :thinking: I’m currently open for: `An Intern` or a new `job opportunity`, this is **[MY RESUME](https://drive.google.com/file/d/18aLbgY7IkHP_Pd5jOpO53AFcQrJpkbwo/view?usp=sharing)**.
 - :nerd_face: Always `learning new things`.
 
 <br>
